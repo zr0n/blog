@@ -9,7 +9,7 @@ title: Input Manager for UE4
 
 ## Instalation
 
-[Download the plugin here] (https://github.com/zr0n/UEInputManager/releases/download/1.0/InputManager.zip), then extract the content to your engine or project plugins folder. 
+[Download the plugin here](https://github.com/zr0n/UEInputManager/releases/download/1.0/InputManager.zip), then extract the content to your engine or project plugins folder. 
 * Re-open your UE4 Editor and enable the Input Manager plugin in Edit > Plugins 
 
 ## Possible Failures
