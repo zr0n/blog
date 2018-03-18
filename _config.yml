@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Luiz Fernando
 tagline:             'Unzkilled Nando'
 description:         'Um espaço para compartilhar um pouco do pouco que sei. <br> A place to share a bit of the bit I know :)'
-url:                 http://zr0n.github.io
+url:                 'http://zr0n.github.io/blog'
 baseurl:             '/blog'
 paginate:            5
 
