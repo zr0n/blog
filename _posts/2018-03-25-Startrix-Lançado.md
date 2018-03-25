@@ -7,7 +7,7 @@ Realizei o lançamento do jogo StarTrix. Foi bem interessante participar desse p
 
 Nesse processo tive que mudar texturas, adaptar input, diminuir qualidade de partículas, fazer buscas para eliminar o máximo possível de assets para não gerar um apk pesado, adaptar materials, fazer diversass configurações no projeto...
 
-Fico feliz por ter lançado esse projeto em público, e sou muito grato por todos que me deram opiniões e aconselho ao longo da jornada. Se for contar os dias que fiquei ativo no projeto, diria que levei 2 meses ativos para desenvolver. Admito que poderia ter levado bem menos, mas o game design foi desenvolvido ao logo do desenvolvimento do jogo em si, o que levou a refazer e adaptar muita coisa, o que inclusive gerou um pouco de caos no código, que está 80% em C++. 
+Fico feliz por ter lançado esse projeto em público, e sou muito grato por todos que me deram opiniões e conselhos ao longo da jornada. Se for contar os dias que fiquei ativo no projeto, diria que levei 2 meses ativos para desenvolver. Admito que poderia ter levado bem menos, mas o game design foi desenvolvido ao logo do desenvolvimento do jogo em si, o que levou a refazer e adaptar muita coisa, o que inclusive gerou um pouco de caos no código, que está 80% em C++. 
 
 Enfim, foi um grande aprendizado, e é só um de muitos projetos que espero estar divulgando aqui ao longo da minha caminhada. Obrigado por ler!
 
