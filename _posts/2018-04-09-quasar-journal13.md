@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diário GameDev - Quasar dia 12
+title: Diário GameDev - Quasar dia 13
 ---
 
 Olá amigos, como estão? Como vocês sabem, todo dia eu to postando como foi o dia de desenvolvimento do jogo Quasar e falando um pouco sobre o que eu fiz.
