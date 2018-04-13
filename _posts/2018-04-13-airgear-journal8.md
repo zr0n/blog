@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diário GameDev - AirGear Dia 7
+title: Diário GameDev - AirGear Dia 8
 ---
 
 Olá amigos, como estão? Como vocês sabem, todo dia eu to postando como foi o dia de desenvolvimento do jogo AirGear e falando um pouco sobre o que eu fiz.
