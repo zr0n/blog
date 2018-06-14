@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diário GameDev - AirGear Dia 43
+title: Diário GameDev - AirGear Dia 44
 
 ---
 
@@ -11,7 +11,7 @@ Continuando a remontar o menu principal. Agora com a recriação de entrar/criar
 Enfim, segue o vídeo de como ficou:
 
 <div class="videoWrapper">
-  <iframe width="1663" height="734" src="https://www.youtube.com/embed/hrhBzqWAfMs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="1663" height="683" src="https://www.youtube.com/embed/S45thjB4veI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <p class= "message"> - Luiz Fernando </p>
