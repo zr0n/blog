@@ -17,5 +17,6 @@ Um grande ponto que fiquei muito feliz que fizemos, foi conseguir fazer um jogo 
 O link para download do jogo [se encontra aqui](https://luizfernando.itch.io/grandmadness)
 
 Um dos usuários do itch.io fez um vídeo da gameplay, caso não possam baixar o jogo mas tenham interesse em ver como ficou:
-
+<div class="videoWrapper">
 <iframe width="1663" height="732" src="https://www.youtube.com/embed/6xQAhuX3xLI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
