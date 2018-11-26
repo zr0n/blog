@@ -35,23 +35,6 @@ layout: empty
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <div class="container">
       	<img src="images/logo.png" class="img-fluid nav-logo-desktop" alt="Company Logo">
-        <ul class="navbar-nav ml-auto nav-right" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
-          <li class="nav-item nav-custom-link">
-            <a class="nav-link" href="index.html">Home <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
-          </li>
-          <li class="nav-item nav-custom-link">
-            <a class="nav-link" href="#marketing">Features <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
-          </li>
-          <li class="nav-item nav-custom-link">
-            <a class="nav-link" href="#testimonials">Testimonials <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
-          </li>
-          <li class="nav-item nav-custom-link">
-            <a class="nav-link" href="#pricing">Pricing <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
-          </li>
-          <li class="nav-item nav-custom-link btn btn-demo-small">
-            <a class="nav-link" href="#">Try for Free <i class="icon ion-ios-arrow-forward icon-mobile"></i></a>
-          </li>
-        </ul>
       </div>
     </div>
   </nav>
@@ -61,21 +44,23 @@ layout: empty
   <section id="hero">
     <div class="container">
       <div class="row">
-        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
-          <img src="images/Equilibrall_Phone.png" class="img-fluid" alt="Demo image">
+        <div id="slider" class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+          <img src="images/Equilibrall_Phone.png" class="img-fluid phone" alt="Demo image">
+          <img src="images/Equilibrall_Phone1.png" class="img-fluid phone hidden" alt="Demo image">
+          <img src="images/Equilibrall_Phone2.png" class="img-fluid phone hidden" alt="Demo image">
         </div>
         <div class="col-md-7 content-box hero-content">
-          <span>Unlimited Data</span>
-          <h1>Digital Innovation and the <b>Future of Digital Marketing</b></h1>
-          <p>Boost your digital marketing campaigns and increase your conversion rates</p>
-          <a href="#" class="btn btn-regular">Learn more</a>
+          <span>Improve your skills</span>
+          <h1>While you have fun you can <b>Improve your motor skills</b></h1>
+          <p>Boost your reflexes and equilibrium in this awesome game full of unique challenges</p>
+          <!-- <a href="#" class="btn btn-regular">Learn more</a> -->
         </div>
       </div>
     </div>
   </section>
   <!-- E N D  H E R O -->
 
-  <!-- E N D  M A R K E T I N G -->
+  <!-- E N D  M A R K E T I N G 
   <section id="marketing">
     <div class="container">
       <div class="row">
@@ -95,7 +80,7 @@ layout: empty
   </section>
   <!-- E N D  M A R K E T I N G -->
 
-  <!-- T E S T I M O N I A L S -->
+  <!-- T E S T I M O N I A L S 
   <section id="testimonials">
     <div class="container">
       <div class="title-block">
@@ -139,69 +124,7 @@ layout: empty
   <!-- P R I C I N G -->
   <section id="pricing">
     <div class="container">
-      <div class="title-block">
-        <h2>Plans and Pricing</h2>
-        <p>The best software to develop perfect content and advertising strategies to increase leads and sales.</p>
-      </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="pricing-box">
-            <h3 class="demo">Demo Version</h3>
-            <h6>Free</h6>
-            <small>forever</small>
-            <p>Demo gives you full access to all features for 7 days</p>
-            <div class="divider-light"></div>
-            <ul>
-              <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Marketing plan</li>
-              <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Seo reporting tool</li>
-              <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Keywords explorer</li>
-              <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Competitive analysis</li>
-              <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Five projects - <span class="demo">¡New!</span></li>
-            </ul>
-            <div class="text-center">
-              <a href="#" class="btn btn-demo">Demo version</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="pricing-box">
-            <h3>Standard Version</h3>
-            <h6>$9</h6>
-            <small>per month</small>
-            <p>Outrank your competitors with this amazing software</p>
-            <div class="divider-light"></div>
-            <ul>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Marketing plan</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Seo reporting tool</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Keywords explorer</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Competitive analysis</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Unlimited projects - <span>¡New!</span></li>
-            </ul>
-            <div class="text-center">
-              <a href="#" class="btn btn-buy">Buy now</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="pricing-box">
-            <h3>Agency Version</h3>
-            <h6>$29</h6>
-            <small>per month</small>
-            <p>For agencies and businesses with extensive web presence</p>
-            <div class="divider-light"></div>
-            <ul>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Marketing plan</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Seo reporting tool</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Keywords explorer</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Competitive analysis</li>
-              <li><i class="icon ion-md-checkmark-circle-outline"></i>Unlimited projects - <span>¡New!</span></li>
-            </ul>
-            <div class="text-center">
-              <a href="#" class="btn btn-buy">Buy now</a>
-            </div>
-          </div>
-        </div>
-      </div>
+      <iframe allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/9-YtVJvhFJs" height="480" width="1120"></iframe>
     </div>
   </section>
   <!-- E N D  P R I C I N G -->
@@ -209,16 +132,18 @@ layout: empty
   <!-- C A L L  T O  A C T I O N -->
   <section id="call-to-action">
     <div class="container text-center">
-      <h2>Increase your conversion rates now</h2>
+      <h2>Ready?</h2>
       <div class="title-block">
-        <p>Learn how to increase both your online and offline conversion rates and boost your sales and profits.</p>
-        <a href="#" class="btn btn-regular">Get Started</a>
+        <p>Download and play it whenever you can. It's 100% free</p>
+        <a id="play-button" href='https://play.google.com/store/apps/details?id=com.souluizfernando.Equilibrall&utm_source=website&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+          <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+        </a>
       </div>
     </div>
   </section>
   <!-- E N D  C A L L  T O  A C T I O N -->
 
-  <!--  F O O T E R  -->
+  <!--  F O O T E R  
   <footer>
     <div class="container">
       <div class="row">
@@ -273,12 +198,60 @@ layout: empty
     </div>
   </footer>
   <!--  E N D  F O O T E R  -->
-    
+  <!-- Slider (by garibaldo)-->
+  <script>
+    const interval = 3 //interval in seconds
+    const fadeDuration = 300
+    let allImages = document.querySelectorAll(".phone")
+    let currentIndex = 0
+    let lastIndex = document.querySelectorAll(".phone").length - 1
+    const goToNextImage = () =>
+    {
+      currentIndex++
+      if(currentIndex > lastIndex)
+        currentIndex = 0
+      fadeOut(() => {
+        document.querySelectorAll(".phone").forEach(element => element.classList.add("hidden"))
+        document.querySelectorAll(".phone")[currentIndex].classList.remove("hidden")
+        fadeIn(() => {})
+      })
+    }
+    const fadeOut = (callback) =>
+    {
+      fade(1,0,callback, fadeDuration)
+    }
+    const fadeIn = (callback) =>
+    {
+      fade(0,1,callback, fadeDuration)
+    }
+    const fade = (from, to, callback, duration, t = 0) =>
+    {
+      const slider = document.querySelector("#slider")
+      const interval = 20
+      let currentOpacity = lerp(from, to, t / duration)
+      slider.style.opacity = currentOpacity
+      t += interval
+      if(t >= duration){
+        callback()
+        return;
+      }
+      setTimeout(() => {
+        fade(from, to, callback, duration, t)
+      }, interval)
+    }
+    const lerp = (v0, v1, t) =>
+    {
+      return v0*(1-t)+v1*t
+    }
+    setInterval(goToNextImage, interval * 1000)
+  </script>
+
 
     <!-- External JavaScripts -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    
   </body>
 </html>

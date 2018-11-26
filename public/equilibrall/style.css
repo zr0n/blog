@@ -44,8 +44,15 @@
 	10. Media Queries
 
    //////////////////////////*/
-
-
+#play-button img{
+	width:300px;
+}
+.container iframe {
+	width: 100%;
+}
+.hidden {
+	display: none;
+}
 body {
 	font-family: 'Roboto', sans-serif;
 	color: #3a3f52;
@@ -236,6 +243,7 @@ section {
 
 #hero {
 	background-color: #f6f8f9;
+	padding: 10px;
 }
 
 #hero h1 {
