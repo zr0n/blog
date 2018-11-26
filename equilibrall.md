@@ -62,7 +62,7 @@ layout: empty
     <div class="container">
       <div class="row">
         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
-          <img src="images/iphone.png" class="img-fluid" alt="Demo image">
+          <img src="images/Equilibrall_Phone.png" class="img-fluid" alt="Demo image">
         </div>
         <div class="col-md-7 content-box hero-content">
           <span>Unlimited Data</span>
