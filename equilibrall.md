@@ -1,8 +1,7 @@
 ---
-page: equilibrall
+layout: empty
 ---
 
-<!doctype html>
 <html lang="en-US">
   <head>
     <!-- Required meta tags -->
